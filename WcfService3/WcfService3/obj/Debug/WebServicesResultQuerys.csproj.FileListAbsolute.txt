@@ -1,0 +1,13 @@
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\WcfService3.dll.config
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\WcfService3.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\WcfService3.pdb
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\MyExtensionMethods.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\OpenNLP.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\HtmlAgilityPack.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\SharpEntropy.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\MyExtensionMethods.pdb
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\HtmlAgilityPack.pdb
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\bin\HtmlAgilityPack.xml
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\obj\Debug\WebServicesResultQuerys.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\obj\Debug\WcfService3.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\WcfService3\WcfService3\obj\Debug\WcfService3.pdb

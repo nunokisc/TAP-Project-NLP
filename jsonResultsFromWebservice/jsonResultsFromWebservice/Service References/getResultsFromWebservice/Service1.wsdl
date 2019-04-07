@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/WebServicesResultQuerys/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/WebServicesResultQuerys/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="I_GetResults_queryToReturnResults_InputMessage">
+    <wsdl:part name="parameters" element="tns:queryToReturnResults" />
+  </wsdl:message>
+  <wsdl:message name="I_GetResults_queryToReturnResults_OutputMessage">
+    <wsdl:part name="parameters" element="tns:queryToReturnResultsResponse" />
+  </wsdl:message>
+  <wsdl:message name="I_GetResults_queryToReturnResultsWithSequence_InputMessage">
+    <wsdl:part name="parameters" element="tns:queryToReturnResultsWithSequence" />
+  </wsdl:message>
+  <wsdl:message name="I_GetResults_queryToReturnResultsWithSequence_OutputMessage">
+    <wsdl:part name="parameters" element="tns:queryToReturnResultsWithSequenceResponse" />
+  </wsdl:message>
+  <wsdl:portType name="I_GetResults">
+    <wsdl:operation name="queryToReturnResults">
+      <wsdl:input wsaw:Action="http://tempuri.org/I_GetResults/queryToReturnResults" message="tns:I_GetResults_queryToReturnResults_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/I_GetResults/queryToReturnResultsResponse" message="tns:I_GetResults_queryToReturnResults_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="queryToReturnResultsWithSequence">
+      <wsdl:input wsaw:Action="http://tempuri.org/I_GetResults/queryToReturnResultsWithSequence" message="tns:I_GetResults_queryToReturnResultsWithSequence_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/I_GetResults/queryToReturnResultsWithSequenceResponse" message="tns:I_GetResults_queryToReturnResultsWithSequence_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_I_GetResults" type="tns:I_GetResults">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="queryToReturnResults">
+      <soap:operation soapAction="http://tempuri.org/I_GetResults/queryToReturnResults" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryToReturnResultsWithSequence">
+      <soap:operation soapAction="http://tempuri.org/I_GetResults/queryToReturnResultsWithSequence" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_I_GetResults" binding="tns:BasicHttpBinding_I_GetResults">
+      <soap:address location="http://localhost/WebServicesResultQuerys/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

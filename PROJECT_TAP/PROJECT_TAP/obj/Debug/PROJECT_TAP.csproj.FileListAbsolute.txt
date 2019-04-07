@@ -1,0 +1,16 @@
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\PROJECT_TAP.exe.config
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\PROJECT_TAP.exe
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\PROJECT_TAP.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\MyExtensionMethods.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\RestSharp.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\OpenNLP.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\SharpEntropy.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\MyExtensionMethods.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\obj\Debug\PROJECT_TAP.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\obj\Debug\PROJECT_TAP.exe
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\PROJECT_TAP\PROJECT_TAP\obj\Debug\PROJECT_TAP.pdb

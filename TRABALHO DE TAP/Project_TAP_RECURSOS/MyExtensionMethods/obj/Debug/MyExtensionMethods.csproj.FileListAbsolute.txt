@@ -1,0 +1,17 @@
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\obj\Debug\MyExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\MyExtensionMethods.dll
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\MyExtensionMethods.pdb
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\OpenNLP.dll
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\SharpEntropy.dll
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\obj\Debug\MyExtensionMethods.dll
+C:\Users\kisc\Source\Repos\turma_TAP1617\MyExtensionMethods\obj\Debug\MyExtensionMethods.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\bin\Debug\MyExtensionMethods.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\bin\Debug\MyExtensionMethods.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\obj\Debug\MyExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\obj\Debug\MyExtensionMethods.dll
+C:\Users\Nuno\Downloads\TRABALHO DE TAP\TRABALHO DE TAP\Project_TAP_RECURSOS\MyExtensionMethods\obj\Debug\MyExtensionMethods.pdb

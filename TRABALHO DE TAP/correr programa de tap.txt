@@ -1,0 +1,23 @@
+
+Criar um console project no visual studio
+clicar em cima do nome do projecto com o botao do lado direito ir a add > existing item
+ir a Project_TAP_RECURSOS e selecionar o program.cs
+Check apply to all
+Carregar sim
+Pergunta se quer subsituir 
+Carregar sim
+Project > Manage NuGET Packages
+Instalar restsharp e Instalar newtonsoft.json
+clicar em cima de solution com a telcla direita do rato ir a add > existing project
+depois seleciona o projecto myextensionmethods que esta em Project_TAP_RECURSOS
+no warning clicar ok
+selecionar no explorer o projecto criado 
+ir a project > add reference e checar o myextensionmethods
+no data source inserir user do sql server
+e no path inserir o caminho do openNLP
+e no stop words definir o local onde se encontra o ficheiro de stopwords em Project_TAP_RECURSOS 
+
+inserir a base de dados snippets.bak num sitio onde o sqlserver tenha acesso
+carregar em databases com a tecla direita do rato e clicar em restore database depois ir a device e selecionar a base de dados que foi deixada no sitio anterior e clicar ok
+
+e correr o programa
